@@ -1,0 +1,6 @@
+//To ignore directories and its subdirectories
+
+//(/node_modules/)** 
+
+// For files we use
+//.DS_Store
