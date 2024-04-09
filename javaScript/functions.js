@@ -46,6 +46,4 @@ function showMovie(){
         console.log(" not granted");
 
     }
-
-
 }      
